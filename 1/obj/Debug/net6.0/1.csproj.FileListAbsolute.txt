@@ -1,0 +1,15 @@
+/home/konst/Рабочий стол/ВВП Л1/1/bin/Debug/net6.0/1
+/home/konst/Рабочий стол/ВВП Л1/1/bin/Debug/net6.0/1.deps.json
+/home/konst/Рабочий стол/ВВП Л1/1/bin/Debug/net6.0/1.runtimeconfig.json
+/home/konst/Рабочий стол/ВВП Л1/1/bin/Debug/net6.0/1.dll
+/home/konst/Рабочий стол/ВВП Л1/1/bin/Debug/net6.0/ref/1.dll
+/home/konst/Рабочий стол/ВВП Л1/1/bin/Debug/net6.0/1.pdb
+/home/konst/Рабочий стол/ВВП Л1/1/obj/Debug/net6.0/1.csproj.AssemblyReference.cache
+/home/konst/Рабочий стол/ВВП Л1/1/obj/Debug/net6.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/home/konst/Рабочий стол/ВВП Л1/1/obj/Debug/net6.0/1.AssemblyInfoInputs.cache
+/home/konst/Рабочий стол/ВВП Л1/1/obj/Debug/net6.0/1.AssemblyInfo.cs
+/home/konst/Рабочий стол/ВВП Л1/1/obj/Debug/net6.0/1.csproj.CoreCompileInputs.cache
+/home/konst/Рабочий стол/ВВП Л1/1/obj/Debug/net6.0/1.dll
+/home/konst/Рабочий стол/ВВП Л1/1/obj/Debug/net6.0/ref/1.dll
+/home/konst/Рабочий стол/ВВП Л1/1/obj/Debug/net6.0/1.pdb
+/home/konst/Рабочий стол/ВВП Л1/1/obj/Debug/net6.0/1.genruntimeconfig.cache
